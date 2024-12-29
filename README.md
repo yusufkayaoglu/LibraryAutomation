@@ -1,5 +1,4 @@
 
-```markdown
 # 📚 LibraryAutomation
 A comprehensive **Library Management System** built with **Java** and **PostgreSQL**, designed to streamline the management of books, users, and real-time data integrations.
 
