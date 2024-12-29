@@ -47,31 +47,29 @@ The application uses **PostgreSQL** for database management. The database schema
 ### Login
 ![Login](screenshots/login.png)
 
+### Forgot Password
+![Forgot Password](screenshots/forgot-password.png)
+
+### Signup
+![Signup](screenshots/signup.png)
+
 ### Home 
 ![Home Page](screenshots/home-page.png)
 
 ### Add New Student 
 ![Add New Student](screenshots/new-student.png)
 
-### Issue Book
-![Issue](screenshots/ıssue-book.png)
-
-### Manage Records Page
-![Manage Records Page](screenshots/manage-records.png)
-
 ### Add New Book 
 ![Add New Book Page](screenshots/new-book.png)
+
+### Issue Book
+![Issue](screenshots/ıssue-book.png)
 
 ### Return Book 
 ![Return Book Page](screenshots/return-book.png)
 
-### Signup
-![Signup](screenshots/signup.png)
-
-### Forgot Password
-![Forgot Password](screenshots/forgot-password.png)
-
-
+### Manage Records Page
+![Manage Records Page](screenshots/manage-records.png)
 
 ---
 
