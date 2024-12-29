@@ -71,7 +71,7 @@ The application uses **PostgreSQL** for database management. The database schema
 <img src="screenshots/new-book.png" width="400">
 
 ### Issue Book
-<img src="screenshots/issue-book.png" width="400">
+<img src="screenshots/ıssue-book.png" width="400">
 
 ### Return Book 
 <img src="screenshots/return-book.png" width="400">
