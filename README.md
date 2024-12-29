@@ -1,28 +1,37 @@
+
+```markdown
 # 📚 LibraryAutomation
 A comprehensive **Library Management System** built with **Java** and **PostgreSQL**, designed to streamline the management of books, users, and real-time data integrations.
 
 ---
 
 ## 🚀 Features
-- 🔒 **User Management**: Secure user authentication and profile management.
-- 📚 **Book Management**: Issue, return, and track books efficiently.
-- 🌦️ **Weather Integration**: Real-time weather updates using the [OpenWeatherMap API](https://openweathermap.org/).
-- 💱 **Currency Exchange Rates**: Get live exchange rates via [ExchangeRate API](https://www.exchangerate-api.com/).
+| Feature                   | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| 🔒 **User Management**        | Secure user authentication and profile management.                         |
+| 📚 **Book Management**        | Issue, return, and track books efficiently.                                |
+| 🌦️ **Weather Integration**   | Real-time weather updates using the [OpenWeatherMap API](https://openweathermap.org/). |
+| 💱 **Currency Exchange Rates**| Get live exchange rates via [ExchangeRate API](https://www.exchangerate-api.com/).   |
 
 ---
 
 ## 🛠️ How to Run
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/yusufkayaoglu/LibraryAutomation.git
    ```
-2. Import the project into **Eclipse** or any Java IDE.
-3. Install the required dependencies:
+2. **Import into IDE**:
+   Import the project into **Eclipse** or any Java IDE.
+
+3. **Install Dependencies**:
    - `postgresql-<version>.jar`
-   - Other external libraries as needed.
-4. Set up the PostgreSQL database:
+   - Other external libraries.
+
+4. **Set up Database**:
    - Use the provided `library.sql` file to create the schema and populate initial data.
-5. Run the application from the main class.
+
+5. **Run the Application**:
+   Execute the `main` class in your IDE.
 
 ---
 
@@ -45,48 +54,67 @@ The application uses **PostgreSQL** for database management. The database schema
 
 ## 📸 Screenshots
 ### Login
-![Login](screenshots/login.png)
+<img src="screenshots/login.png" width="400">
 
 ### Forgot Password
-![Forgot Password](screenshots/forgot-password.png)
+<img src="screenshots/forgot-password.png" width="400">
 
 ### Signup
-![Signup](screenshots/signup.png)
+<img src="screenshots/signup.png" width="400">
 
 ### Home 
-![Home Page](screenshots/home-page.png)
+<img src="screenshots/home-page.png" width="400">
 
 ### Add New Student 
-![Add New Student](screenshots/new-student.png)
+<img src="screenshots/new-student.png" width="400">
 
 ### Add New Book 
-![Add New Book Page](screenshots/new-book.png)
+<img src="screenshots/new-book.png" width="400">
 
 ### Issue Book
-![Issue](screenshots/ıssue-book.png)
+<img src="screenshots/issue-book.png" width="400">
 
 ### Return Book 
-![Return Book Page](screenshots/return-book.png)
+<img src="screenshots/return-book.png" width="400">
 
-### Manage Records Page
-![Manage Records Page](screenshots/manage-records.png)
+### Manage Records
+<img src="screenshots/manage-records.png" width="400">
+
+### Edit Your Profile
+<img src="screenshots/edit-profile.png" width="400">
+
+### Edit Users
+<img src="screenshots/edit-users.png" width="400">
 
 ---
 
 ## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
+Contributions are welcome! Here's how you can get started:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b feature/new-feature
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add some feature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/new-feature
+   ```
+5. Open a pull request.
 
 ---
 
 ## 📝 License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
+You are free to use, modify, and distribute this software in your own projects. Please refer to the license file for more details.
+
 ---
 
 ### 🔗 Links
 - [GitHub Repository](https://github.com/yusufkayaoglu/LibraryAutomation)
 - [Documentation](#) *(Add link to documentation if available)*
-```
-
-
-
+``` 
