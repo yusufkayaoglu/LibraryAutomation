@@ -60,7 +60,7 @@ The application uses **PostgreSQL** for database management. The database schema
 ![Manage Records Page](screenshots/manage-records.png)
 
 ### Add New Book 
-![Add New Book Page](screenshots/home_page.png)
+![Add New Book Page](screenshots/new-book.png)
 
 ### Return Book 
 ![Return Book Page](screenshots/return-book.png)
