@@ -29,7 +29,7 @@ A comprehensive **Library Management System** built with **Java** and **PostgreS
 
 ## 🗄️ Database
 The application uses **PostgreSQL** for database management. The database schema and initial data are provided in the file:
-- `librarydb2.sql`
+- `library.sql`
 
 ### Tables Included:
 - **Users**: Manages user information and credentials.
