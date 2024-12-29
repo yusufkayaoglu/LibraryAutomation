@@ -114,6 +114,8 @@ You are free to use, modify, and distribute this software in your own projects. 
 ---
 
 ### 🔗 Links
-- [GitHub Repository](https://github.com/yusufkayaoglu/LibraryAutomation)
-- [Documentation](#) *(Add link to documentation if available)*
+- 🌐 [GitHub Repository](https://github.com/yusufkayaoglu/LibraryAutomation)  
+  _Explore the source code and project details._
+- 📄 [Project Documentation](https://github.com/yusufkayaoglu/LibraryAutomation/blob/main/README.md)  
+  _Read detailed documentation about the project._
 ``` 
