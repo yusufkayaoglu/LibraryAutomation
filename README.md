@@ -1,4 +1,3 @@
-
 # 📚 LibraryAutomation
 A comprehensive **Library Management System** built with **Java** and **PostgreSQL**, designed to streamline the management of books, users, and real-time data integrations.
 
@@ -45,7 +44,8 @@ The application uses **PostgreSQL** for database management. The database schema
 ---
 
 ## 📸 Screenshots
-> Coming soon! Stay tuned for screenshots showcasing the application's UI and features.
+### Login Screen
+![Login Screen](screenshots/login.png)
 
 ---
 
